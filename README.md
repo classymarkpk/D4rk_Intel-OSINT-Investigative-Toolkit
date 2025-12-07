@@ -79,7 +79,16 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 - https://who.is/ 
 
-- https://dnslytics.com/ 
+- https://dnslytics.com/
+
+
+# Document Metadata Extractors
+
+- https://exif.tools/
+  
+- https://www.cyberciti.biz/faq/linux-unix-view-technical-details-of-pdf/
+  
+- https://www.metadata2go.com/
 
 
 
@@ -261,6 +270,63 @@ youtube.com
 instagram.com
 reddit.com
 roblox.com 
+
+
+---
+
+# Practical Illustration 
+
+1. **PDF** Metadata Extraction using **PDFINFO** - a command line tool
+
+**pdfinfo** is a command-line utility used in Linux to extract metadata and other information from PDF files.
+
+
+# Steps
+
+**Installation**:
+
+First, ensure pdfinfo is installed on your system. It is typically part of the poppler-utils package.
+
+**sudo apt-get update**
+**sudo apt-get install poppler-utils**
+
+
+
+- **Basic Usage**:
+
+To get a summary of information from a PDF file, simply run pdfinfo followed by the filename:
+
+**pdfinfo your_document.pdf**
+
+
+- **Specific Information**:
+
+You can also use options to extract specific information:
+
+**Metadata**: Use the -meta option to print only the XML metadata stream (if present).
+
+
+    pdfinfo -meta your_document.pdf
+
+**JavaScript**: Use the -js option to print only the embedded JavaScript.
+
+    pdfinfo -js your_document.pdf
+
+
+**Structural information**: Use -struct to output the document's structure.
+
+    pdfinfo -struct your_document.pdf
+    
+
+To find out the number of pages in a PDF and filter the output:
+
+    pdfinfo your_document.pdf | grep "Pages:"
+
+This will display only the line containing the page count.
+
+You can use the grep command or egrep command to filter out info for your scripts. For example:
+
+      pdfinfo myfile.pdf | grep -i author
 
 
 # Conclusion:
