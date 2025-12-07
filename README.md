@@ -65,7 +65,7 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 - https://doxbin.net/ 
 
-- https://discordleaks.unicornriot.ninja/ 
+- https://discordleaks.unicornriot.ninja
 
 - https://www.4chan.org/ 
 
