@@ -63,11 +63,11 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
 # Doxxing/Chats/Leaks:
 
-https://doxbin.net/ 
+- https://doxbin.net/ 
 
-https://discordleaks.unicornriot.ninja/ 
+- https://discordleaks.unicornriot.ninja/ 
 
-https://www.4chan.org/ 
+- https://www.4chan.org/ 
 
 
 
@@ -102,8 +102,9 @@ https://www.4chan.org/
 
 - https://www.vesselfinder.com/
 
-- 
+- https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4
 
+- https://www.myshiptracking.com/
 
 
 # County Records (US Properties):
@@ -132,33 +133,33 @@ https://www.4chan.org/
 
 # Maps:
 
-https://everytownresearch.org/labs/everyshot/?zoom=-8.0&lat=32.74066&lng=-83.76498&compare=main&view=map&lview=incident&incident=&city1=&city2=&state1=&state2=&compt=7*April*2025_10*April*2025 (Real Time Shootings)
+- https://everytownresearch.org/labs/everyshot/?zoom=-8.0&lat=32.74066&lng=-83.76498&compare=main&view=map&lview=incident&incident=&city1=&city2=&state1=&state2=&compt=7*April*2025_10*April*2025 (Real Time Shootings)
 
-https://www.gangmap.com/ (Aggregated Gang Territories courtesy of Nathaniel Fried )
+- https://www.gangmap.com/ (Aggregated Gang Territories courtesy of Nathaniel Fried )
 
-https://www.meganslaw.ca.gov/Disclaimer (Sex Offender Registration - California)
+- https://www.meganslaw.ca.gov/Disclaimer (Sex Offender Registration - California)
 
 
 
 # Public Cameras:
 
-https://cwwp2.dot.ca.gov/vm/streamlist.htm 
+- https://cwwp2.dot.ca.gov/vm/streamlist.htm 
 
-https://www.weatherbug.com/traffic-cam/washington-dc-20001 
+- https://www.weatherbug.com/traffic-cam/washington-dc-20001 
 
-https://roads.santaclaracounty.gov/roads-and-traffic-info/view-live-traffic-cam-county-maintained-roads 
+- https://roads.santaclaracounty.gov/roads-and-traffic-info/view-live-traffic-cam-county-maintained-roads 
 
-https://cameras.alertcalifornia.org/?pos=37.2382_-119.0000_6
+- https://cameras.alertcalifornia.org/?pos=37.2382_-119.0000_6
 
 
 
 # Mass Shooter Databases:
 
-https://www.theviolenceproject.org/ 
+- https://www.theviolenceproject.org/ 
 
-https://cssh.northeastern.edu/sccj/mass-killing-database/ 
+- https://cssh.northeastern.edu/sccj/mass-killing-database/ 
 
-https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/ 
+- https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/ 
 
 
 
