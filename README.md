@@ -144,12 +144,17 @@ https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr
 
 # Vulnerability Protection:
 
-https://smart911.com/ 
-https://buy.aura.com/better-protection-2?mktp=google&c1=19665933250&c2=144595646143&utm_source=google&utm_medium=cpc&utm_content=654328226305&utm_campaign=19665933250&utm_term=aura&gad_source=1&gclid=CjwKCAjwtdi_BhACEiwA97y8BFrSomR3NZPrthBpbBf9wEcRaWDlX2hw3F8SXk94cEnvBs24UbTplRoC-U0QAvD_BwE
-https://www.optery.com/ 
-https://lifelock.norton.com/#tabs 
-https://joindeleteme.com/?utm_campaignid=20938184122&utm_adgroupid=156334005254&utm_keyword=deleteme&utm_device=c&utm_matchtype=e&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_content=687414271343&utm_campaign=&utm_term=deleteme&hsa_acc=3126617939&hsa_cam=20938184122&hsa_grp=156334005254&hsa_ad=687414271343&hsa_src=g&hsa_tgt=kwd-301617016498&hsa_kw=deleteme&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ4Jy-hjqCiwGy4WzOWrrl-xHNZf5iVLxYk2A7Sl0g2UCnYkBDDm1-EaAhmYEALw_wcB 
-https://www.360privacy.io/ 
+- https://smart911.com/
+  
+- https://buy.aura.com/better-protection-2?mktp=google&c1=19665933250&c2=144595646143&utm_source=google&utm_medium=cpc&utm_content=654328226305&utm_campaign=19665933250&utm_term=aura&gad_source=1&gclid=CjwKCAjwtdi_BhACEiwA97y8BFrSomR3NZPrthBpbBf9wEcRaWDlX2hw3F8SXk94cEnvBs24UbTplRoC-U0QAvD_BwE
+
+- https://www.optery.com/ 
+
+- https://lifelock.norton.com/#tabs 
+
+- https://joindeleteme.com/?utm_campaignid=20938184122&utm_adgroupid=156334005254&utm_keyword=deleteme&utm_device=c&utm_matchtype=e&utm_adgroup=&utm_source=google&utm_medium=cpc&utm_content=687414271343&utm_campaign=&utm_term=deleteme&hsa_acc=3126617939&hsa_cam=20938184122&hsa_grp=156334005254&hsa_ad=687414271343&hsa_src=g&hsa_tgt=kwd-301617016498&hsa_kw=deleteme&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ4Jy-hjqCiwGy4WzOWrrl-xHNZf5iVLxYk2A7Sl0g2UCnYkBDDm1-EaAhmYEALw_wcB 
+
+- https://www.360privacy.io/ 
 
 
 
@@ -202,6 +207,8 @@ youtube.com
 instagram.com
 reddit.com
 roblox.com 
+
+Special acknowledgement to > **William Wolf** 
 
 Conclusion:
 
