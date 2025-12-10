@@ -188,46 +188,46 @@ A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repo
 
   # Search & Discovery
 
-  - https://www.google.com/advanced_search
-  - https://duckduckgo.com/
-  - https://www.shodan.io/
-  - https://web.archive.org/
-  - https://www.startpage.com/
-  - https://www.bing.com/
-  - https://yandex.com/
-  - https://www.baidu.com/
-  - https://searx.org/
-  - https://www.wolframalpha.com/
-  - https://scholar.google.com/
-  - https://pipl.com/
-  - https://www.spokeo.com/
-  - https://www.whitepages.com/
-  - https://www.deepdyve.com/
-  - https://www.base-search.net/
-  - https://www.refseek.com/
-  - https://www.recordedfuture.com/
-  - https://www.darktrace.com/
-  - https://haveibeenpwned.com/
-  - https://www.dehashed.com/
-  - https://leakcheck.io/
-  - https://www.intelx.io/
-  - https://ghostproject.fr/
-  - https://www.scribd.com/
-  - https://pp.one/
-  - https://www.slideshare.net/
-  - https://www.4shared.com/
-  - https://www.box.com/
-  - https://github.com/search
-  - https://gitlab.com/explore
-  - https://bitbucket.org/
-  - https://searchcode.com/
-  - https://grep.app/
-  - https://archive.ph/
-  - https://www.loc.gov/
-  - https://www.europeana.eu/
-  - https://www.misp-project.org/
-  - https://otx.alienvault.com/
-  - https://threatconnect.com/
+- https://www.google.com/advanced_search
+- https://duckduckgo.com/
+- https://www.shodan.io/
+- https://web.archive.org/
+- - https://www.startpage.com/
+- https://www.bing.com/
+- https://yandex.com/
+- https://www.baidu.com/
+- https://searx.org/
+- https://www.wolframalpha.com/
+- https://scholar.google.com/
+- https://pipl.com/
+- https://www.spokeo.com/
+- https://www.whitepages.com/
+- https://www.deepdyve.com/
+- https://www.base-search.net/
+- https://www.refseek.com/
+- https://www.recordedfuture.com/
+- https://www.darktrace.com/
+- https://haveibeenpwned.com/
+- https://www.dehashed.com/
+- https://leakcheck.io/
+- https://www.intelx.io/
+- https://ghostproject.fr/
+- https://www.scribd.com/
+- https://pp.one/
+- https://www.slideshare.net/
+- https://www.4shared.com/
+- https://www.box.com/
+- https://github.com/search
+- https://gitlab.com/explore
+- https://bitbucket.org/
+- https://searchcode.com/
+- https://grep.app/
+- https://archive.ph/
+- https://www.loc.gov/
+- https://www.europeana.eu/
+- https://www.misp-project.org/
+- https://otx.alienvault.com/
+- https://threatconnect.com/
 
 
 
@@ -444,6 +444,7 @@ https://www.beenverified.com/
 
 
 
+
 # Social Media Sites:
 
 When initiating research and conducting in-depth investigations based solely on a username, it is imperative to cross-reference all potential accounts. Even in cases where primary search engines do not provide direct links to social media accounts, independent verification with the same username or a modified version thereof is necessary. Many social media platforms yield similar matches, often with minor variations such as numerical differences, letter substitutions, or other modifications. A comprehensive list of most major social media websites, as well as less common sites, is provided below for your reference:
@@ -484,6 +485,138 @@ youtube.com
 instagram.com
 reddit.com
 roblox.com 
+
+
+
+# Books & Publications
+
+
+### 1. Open Source Intelligence Techniques
+
+**By Michael Bazzell**
+
+https://inteltechniques.com/book7.html: A comprehensive guide to finding information online using advanced search techniques and specialized tools.
+
+
+### 2. Hiding from the Internet
+
+**By Michael Bazzell**
+
+https://inteltechniques.com/book7.html: Explores techniques for eliminating and protecting your personal information from being discovered online.
+
+
+### 3. Intelligence-Driven Incident Response
+
+**By Scott J. Roberts & Rebekah Brown**
+
+https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781491935187/: Outlines how to integrate threat intelligence into incident response processes.
+
+
+### 4. Digital Witness
+
+**By Sam Dubberley, Alexa Koenig & Daragh Murray**
+
+https://academic.oup.com/: Explores the use of open source information for human rights investigations and documentation.
+
+
+
+### 5. OSINT Handbook
+
+**By i-intelligence**
+
+https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf: A practical guide to open source intelligence gathering with real-world case studies and methodologies.
+
+
+### 6. The Art of Intelligence
+
+**By Henry A. Crumpton**
+
+https://www.penguinrandomhouse.com/books/307190/the-art-of-intelligence-by-henry-a-crumpton/: Insights into modern intelligence operations and the evolution of intelligence gathering in the digital age.
+
+
+### 7. Social Engineering: The Science of Human Hacking
+
+**By Christopher Hadnagy**
+
+https://www.wiley.com/en-us/Social+Engineering%3A+The+Science+of+Human+Hacking%2C+2nd+Edition-p-9781119433385: Essential for understanding human intelligence gathering and social manipulation techniques in OSINT.
+
+
+
+### 8. Cyber Threat Intelligence
+
+**By Martin Lee**
+
+https://www.amazon.com/Cyber-Threat-Intelligence-Martin-Lee/dp/1119861748: Comprehensive guide to understanding and implementing cyber threat intelligence programs.
+
+
+
+### 9. Digital Forensics and Incident Response
+
+**By Gerard Johansen**
+
+https://www.packtpub.com/en-us/product/digital-forensics-and-incident-response-9781803238678: Practical approach to digital forensics with OSINT techniques for incident response teams.
+
+
+
+### 10. Structured Analytic Techniques for Intelligence Analysis
+
+**By Richards J. Heuer Jr. & Randolph H. Pherson**
+
+https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1608710181: Essential methodology for analyzing and structuring intelligence data from open sources.
+
+
+
+### 11. The Cuckoo's Egg
+
+**By Clifford Stoll**
+
+https://www.penguinrandomhouse.com: Classic cybersecurity book showcasing early digital investigation techniques and methodologies.
+
+
+### 12. We Are Bellingcat
+
+**By Eliot Higgins**
+
+https://www.bloomsbury.com/us/this-is-how-they-tell-me-the-world-ends-9781635576061/: Real-world application of OSINT techniques in investigative journalism and conflict verification.
+
+
+
+### 13. Privacy Engineering
+
+**By Michelle Finneran Dennedy, Jonathan Fox & Thomas Finneran**
+
+https://www.oreilly.com/library/view/the-privacy-engineers/9781430263555/: Understanding privacy implications and protection strategies relevant to OSINT practitioners.
+
+
+
+
+# Online Communities & Forums
+
+
+**1. OSINT Framework**
+
+https://osintframework.com/: A collection of various tools categorized by their use case for OSINT gathering.
+
+
+
+**2. r/OSINT**
+
+https://www.reddit.com/r/OSINT/: Reddit community dedicated to Open Source Intelligence discussions and resources.
+
+
+**3. OSINT Curious Project**
+
+https://www.osintcurio.us/: A project dedicated to sharing open source intelligence news, techniques, and resources.
+
+
+
+**4. Bellingcat**
+
+https://www.bellingcat.com/: An independent international collective of researchers, investigators and citizen journalists using open source and social media investigation.
+
+
+
+
 
 
 ---
