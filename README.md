@@ -1341,6 +1341,84 @@ Removing Metadata
 
     deactivate
 
+
+---
+
+# How To Install TOR on Kali Linux
+
+### Step 1: Install Tor and Related Packages
+
+#### Install Tor
+
+    sudo apt install -y tor torsocks torbrowser-launcher
+
+#### If you want monitoring tools
+
+    sudo apt install -y nyx vidalia
+
+#### For additional security
+
+    sudo apt install -y obfs4proxy meek
+
+
+### Step 2: Start and Configure Tor
+
+
+#### Start Tor service
+
+    sudo systemctl start tor
+    
+    sudo systemctl enable tor
+
+#### Check status
+
+    sudo systemctl status tor
+
+#### Check if Tor is listening
+
+    sudo netstat -tulpn | grep 9050
+
+
+### Step 3: Test Tor Connection
+
+
+#### Test with curl
+
+    curl --socks5 127.0.0.1:9050 https://check.torproject.org/
+
+#### Get your Tor exit IP
+
+    curl --socks5 127.0.0.1:9050 ifconfig.me
+
+#### Test with torsocks
+
+    torsocks curl https://check.torproject.org/
+
+---
+
+# Configure Your Browser
+
+### Firefox Manual Configuration
+
+- Open Firefox
+
+- Go to: about:preferences#advanced
+
+- Click **Network tab → Settings**
+
+**Configure**:
+  
+
+**Manual proxy configuration**:
+
+- SOCKS Host: 127.0.0.1
+  
+- Port: 9050
+  
+- SOCKS v5
+  
+- Check: "Proxy DNS when using SOCKS v5"
+
     
 # Conclusion:
 
